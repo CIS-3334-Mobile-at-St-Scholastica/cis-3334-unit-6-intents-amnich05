@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IntentsPerformances.iml" filepath="$PROJECT_DIR$/IntentsPerformances.iml" />
+      <module fileurl="file://C:\Users\Amanda\Documents\School\S2018\MobileDeviceProgramming\cis-3334-unit-6-intents-amnich05\IntentsPerformances.iml" filepath="C:\Users\Amanda\Documents\School\S2018\MobileDeviceProgramming\cis-3334-unit-6-intents-amnich05\IntentsPerformances.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Amanda\Documents\School\S2018\MobileDeviceProgramming\cis-3334-unit-6-intents-amnich05\app\app.iml" filepath="C:\Users\Amanda\Documents\School\S2018\MobileDeviceProgramming\cis-3334-unit-6-intents-amnich05\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cis-3334-unit-6-intents-amnich05.iml" filepath="$PROJECT_DIR$/.idea/cis-3334-unit-6-intents-amnich05.iml" />
     </modules>
   </component>
 </project>
