@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
                 // Do something in response to button click
                 textViewStatus.setText("Code should display map for performance 1");
                 // Map point based on address
-                Uri location = Uri.parse("geo:0,0?q=1200+Kenwood+Avenue,+Duluth,+Minnesota");
+                Uri location = Uri.parse("geo:0,0?q=1200 Kenwood Ave, Duluth, MN");
                 Intent mapIntent = new Intent(Intent.ACTION_VIEW, location);
                 // check if there is an app to display maps
                 PackageManager packageManager = getPackageManager();
@@ -170,7 +170,7 @@ public class MainActivity extends AppCompatActivity {
                 // Do something in response to button click
                 textViewStatus.setText("Code should display map for performance 2");
                 // Map point based on address
-                Uri location = Uri.parse("geo:0,0?q=1200+Kenwood+Avenue,+Duluth,+Minnesota");
+                Uri location = Uri.parse("geo:0,0?q=1200 Kenwood Ave, Duluth, MN");
                 Intent mapIntent = new Intent(Intent.ACTION_VIEW, location);
                 // check if there is an app to display maps
                 PackageManager packageManager = getPackageManager();
@@ -247,7 +247,7 @@ public class MainActivity extends AppCompatActivity {
                 // Do something in response to button click
                 textViewStatus.setText("Code should display map for performance 3");
                 // Map point based on address
-                Uri location = Uri.parse("geo:0,0?q=1200+Kenwood+Avenue,+Duluth,+Minnesota");
+                Uri location = Uri.parse("geo:0,0?q=1200 Kenwood Ave, Duluth, MN");
                 Intent mapIntent = new Intent(Intent.ACTION_VIEW, location);
                 // check if there is an app to display maps
                 PackageManager packageManager = getPackageManager();
